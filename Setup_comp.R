@@ -1,9 +1,9 @@
 #in the following we use the excellent usethis package
 #with this package git interaction works like a charm
 #set a license
-usethis::use_mit_license(copyright_holder = "Ulfunkel")
+usethis::use_mit_license(copyright_holder = "VBraun")
 #now we setup git without the terminal
-usethis::use_git_config(user.name = "sprocketsullivan", user.email = "toelch@gmail.com")
+usethis::use_git_config(user.name = "veramb98", user.email = "vera.braun2@charite.de")
 #this is a git init
 usethis::use_git()
 #now we create a token on git
